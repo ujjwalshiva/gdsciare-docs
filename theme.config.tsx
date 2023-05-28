@@ -21,6 +21,7 @@ const config: DocsThemeConfig = {
       titleTemplate: '%s – GDSC IARE'
     }
   },
+  darkMode: false,
   
 }
 
