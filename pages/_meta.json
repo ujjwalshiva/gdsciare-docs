@@ -1,0 +1,15 @@
+{
+  "index": "👋 Introduction",
+  "whatwedo": "💡 What We Do",
+  "ourinitiatives": "🔥 Our Initiatives",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://gdsciare.club",
+    "newWindow": true
+  }
+}
