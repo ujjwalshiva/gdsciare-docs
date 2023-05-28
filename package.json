@@ -16,8 +16,8 @@
     "homepage": "https://github.com/gdsciare/gdsciare#readme",
     "dependencies": {
         "next": "^13.0.6",
-        "nextra": "2.6.1",
-        "nextra-theme-doc": "2.6.1",
+        "nextra": "latest",
+        "nextra-theme-doc": "latest",
         "react": "^18.2.0",
         "react-dom": "^18.2.0"
     },
