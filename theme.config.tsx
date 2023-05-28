@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span><b>GDSC IARE </b>Open Source Platform</span>,
+  logo: <span><b>GDSC IARE </b>Open Source</span>,
   project: {
     link: 'https://github.com/gdsciare',
   },
@@ -20,7 +20,8 @@ const config: DocsThemeConfig = {
     return {
       titleTemplate: '%s – GDSC IARE'
     }
-  }
+  },
+  
 }
 
 
