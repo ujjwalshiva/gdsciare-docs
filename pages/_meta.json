@@ -1,15 +1,20 @@
 {
-  "index": "👋 Introduction",
-  "whatwedo": "💡 What We Do",
-  "ourinitiatives": "✨ Our Initiatives",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://gdsciare.club",
-    "newWindow": true
-  }
+    "index": "👋 Introduction",
+    "whatwedo": "💡 What We Do",
+    "ourinitiatives": "✨ Our Initiatives",
+    "ourevents": "🥳 Our Events",
+    "tech_projects": "🤖 Tech Projects",
+    "achievements": "🏆 Achievements",
+    "team": "👨‍👦‍👦 Meet the Team",
+    "gallery": "📸 Gallery",
+    "about": {
+        "title": "About Us",
+        "type": "page"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "type": "page",
+        "href": "https://gdsciare.club",
+        "newWindow": true
+    }
 }

@@ -14,15 +14,32 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/gdsciare/gdsciare-docs',
   footer: {
-    text: 'GDSC IARE Docs',
+    text: "GDSC IARE Open Source Platform",
   },
   useNextSeoProps() {
     return {
       titleTemplate: '%s – GDSC IARE'
     }
   },
-  darkMode: false,
-  
+  head: (
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta property="og:title" content="GDSC IARE Open Source" />
+      <meta property="og:description" content="We're building this Open Source Platform as a one-stop centre to know everything about GDSC IARE." />
+      <link rel="icon" type="image/png" href="./public/images/logo_small.png"></link>
+    </>
+  ),
+  banner: {
+    key: '1.0-release',
+    text: (
+      <a href="https://gdsciare-docs.vercel.app" target="_blank">
+        🎉 Our GDSC IARE Open Source Platform is now Live! Read more →
+      </a>
+    )
+  },
+  sidebar: {
+    defaultMenuCollapseLevel: 1
+  }  
 }
 
 
