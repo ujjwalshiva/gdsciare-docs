@@ -5,10 +5,10 @@
     "ourevents": "🥳 Our Events",
     "tech_projects": "🤖 Tech Projects",
     "achievements": "🏆 Achievements",
-    "team": "👨‍👦‍👦 Meet the Team",
+    "resources": "📖 Resources",
     "gallery": "📸 Gallery",
     "about": {
-        "title": "About Us",
+        "title": "The Team",
         "type": "page"
     },
     "contact": {

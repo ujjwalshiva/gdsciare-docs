@@ -39,7 +39,11 @@ const config: DocsThemeConfig = {
   },
   sidebar: {
     defaultMenuCollapseLevel: 1
-  }  
+  },
+  darkMode: false,
+  nextThemes: {
+    defaultTheme: 'light'
+  }
 }
 
 
