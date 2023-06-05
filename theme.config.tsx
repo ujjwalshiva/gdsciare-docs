@@ -26,7 +26,14 @@ const config: DocsThemeConfig = {
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta property="og:title" content="GDSC IARE Open Source" />
       <meta property="og:description" content="We're building this Open Source Platform as a one-stop centre to know everything about GDSC IARE." />
-      <link rel="icon" type="image/png" href="./public/images/logo_small.png"></link>
+      <link rel="icon" type="image/png" href="https://i.imgur.com/cC4h2X0.png"></link>
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:image" content="https://i.imgur.com/e51ZK5D.png" />
+      <meta name="twitter:site:domain" content="docs.gdsciare.club" />
+      <meta name="twitter:url" content="https://gdsciare-docs.vercel.app" />
+      <meta name="twitter:description" content="We're building this Open Source Platform as a one-stop centre to know everything about GDSC IARE." />
+      <meta name="og:image" content="https://i.imgur.com/e51ZK5D.png" />
+      <meta name="apple-mobile-web-app-title" content="GDSC IARE Open Source" />
     </>
   ),
   banner: {
